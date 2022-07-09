@@ -1,0 +1,5 @@
+f=input('Enter a Number:')
+n=input('Enter a Number:')
+b=input('Enter a Number:')
+out=(int(f)+int(n))*int(b)
+print('The answer is :',out)
